@@ -1,6 +1,6 @@
 # Página de Perfil Pessoal - Fábio Nogueira
 
-Este projeto é uma página web pessoal desenvolvida com **HTML5 semântico** e **CSS responsivo**, com o objetivo de apresentar o perfil profissional de **Rafaela Góes**, desenvolvedora de 27 anos, de forma clara, moderna e adaptável a diferentes dispositivos.
+Este projeto é uma página web pessoal desenvolvida com **HTML5 semântico** e **CSS responsivo**, com o objetivo de apresentar o perfil profissional de forma clara, moderna e adaptável a diferentes dispositivos.
 
 ## ✨ Objetivos do Projeto
 
@@ -69,3 +69,4 @@ Este projeto está licenciado sob a MIT License — sinta-se livre para usar, me
 <a href="mailto:faanogueira@gmail.com"><img style="padding-right: 10px;" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" target="_blank" width="80"></a> 
 </p>
 <!-- Fim da seção "Contato" -->
+
