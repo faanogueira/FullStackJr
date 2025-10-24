@@ -12,7 +12,8 @@ A jornada abrange desde os fundamentos da programação até aplicações mais c
 |--------|-----------|-----------|------|
 | 01 | 🟦 Exercício 1 | Fundamentos de Programação em JavaScript (operadores, condicionais, laços) | [exercicio1.js](./exercicio1.js) |
 | 01 | 🟨 Exercício 2 | Controle de fluxo, funções, recursividade e manipulação de dados | [exercicio2.js](./exercicio2.js) |
-| 02 | ☕ Exercício Java | Programação Orientada a Objetos, Collections e APIs | [modulo-04-java](./Modulo%204%20Java) |
+| 02 | 🟩 Exercício 3 | Desenvolvimento Web Básico HMTL/CSS | ... | [modulo-02-frontend](https://github.com/fabaonogueira/FullStackJr/tree/main/M%C3%B3dulo%202/Lista%20de%20Exerc%C3%ADcios%203) | 
+| 02 | 🟥 Exercício 4 | Desenvolvimento de um Portfólio Pessoal | ... | [modulo-02-portfolio](https://github.com/fabaonogueira/FullStackJr/tree/main/M%C3%B3dulo%202/Lista%20de%20Exerc%C3%ADcios%204) |
 | 03 | 🎬 Projeto 1 | Aplicativo de Busca de Filmes com React | [buscar_filmes](https://github.com/fabaonogueira/FullStackJr/tree/main/M%C3%B3dulo%203_React/buscar_filmes) |
 | 03 | 🛍️ Projeto 2 | Mini Loja em React – 4 versões de estilização | [miniloja](https://github.com/fabaonogueira/FullStackJr/tree/main/M%C3%B3dulo%203_React/miniloja) |
 | 04 | ☕ Exercício Java | Programação Orientada a Objetos, Collections e APIs | [modulo-04-java](./Modulo%204%20Java) |
@@ -25,7 +26,7 @@ A jornada abrange desde os fundamentos da programação até aplicações mais c
 
 A seguir, estão listados os módulos principais do curso. Os arquivos correspondentes a cada módulo serão adicionados conforme o progresso:
 
-- `modulo-01-logica-programacao/` – Introdução à Ciência da Computação e Lógica à Programação [Módulo 1 — Lógica Programação](https://github.com/faanogueira/FullStackJr/tree/main/M%C3%B3dulo%201%20L%C3%B3gica%20Programa%C3%A7%C3%A3o)
+- `modulo-01-logica-programacao/` – Introdução à Lógica de Programação [Módulo 1 — Lógica Programação](https://github.com/faanogueira/FullStackJr/tree/main/M%C3%B3dulo%201%20L%C3%B3gica%20Programa%C3%A7%C3%A3o)
 - `modulo-02-front-end/` – Desenvolvimento Web: Front-End [Módulo 2 — FrontEnd](https://github.com/faanogueira/FullStackJr/tree/main/M%C3%B3dulo%202%20FrontEnd)
 - `modulo-03-react/` – Desenvolvimento com React (componentização, hooks, integração com APIs) [Módulo 3 — React](https://github.com/faanogueira/FullStackJr/tree/main/M%C3%B3dulo%203%20React) 
 - `modulo-04-java/` – Programação em Java (POO, estruturas avançadas e aplicações back-end) [Módulo 4 — Java](https://github.com/faanogueira/FullStackJr/tree/main/Modulo%204%20Java)
